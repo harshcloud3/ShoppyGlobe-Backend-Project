@@ -65,6 +65,11 @@ POST /api/cart
 PUT /api/cart/:id
 DELETE /api/cart/:id
 
+## GitHub Repository
+
+Repository Link:
+https://github.com/harshcloud3/ShoppyGlobe-Backend-Project
+
 ---
 
 ## Author
